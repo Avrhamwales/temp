@@ -1,0 +1,2 @@
+string = "Avraham Wales"
+print(string)
